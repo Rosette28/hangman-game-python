@@ -30,3 +30,7 @@ To run the game locally:
 3. Run the Python script:
    ```bash
    python hangman.py
+
+## About the Project
+This Hangman game was created when I was **13 years old** as the **final project for a Python programming course**.  
+It represents my early steps into programming and my enthusiasm for building interactive terminal games.
